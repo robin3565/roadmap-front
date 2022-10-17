@@ -1,3 +1,15 @@
+<h6 align="center">
+
+  <img alt="banner" src="README_image/team-title.png">
+
+![License](https://img.shields.io/badge/License-MIT-red)
+
+<!-- ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/woowa-techcamp-2021/store-2?color=green&label=Version) -->
+
+</h6>
+
+<p align="center">구글 스프린트 <b>12기</b> MVP - Roady.io</p>
+
 # Roady.io: Ready to Roadmap
 > for easy to start
 
@@ -37,21 +49,6 @@
 **Designer**  `라울`
 
 **Backend**   `라울`
-<h6 align="center">
-
-  <img alt="banner" src="README_image/team-title.png">
-
-![License](https://img.shields.io/badge/License-MIT-red)
-
-<!-- ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/woowa-techcamp-2021/store-2?color=green&label=Version) -->
-
-</h6>
-
-<h2 align="center">
-  <a>🎁 Roady.io</a>
-</h2>
-
-<p align="center">구글 스프린트 <b>12기</b> MVP - Roady.io</p>
 
 ## Contributors
 
