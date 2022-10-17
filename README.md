@@ -1,7 +1,5 @@
 <h6 align="center">
 
-  <img alt="banner" src="README_image/team-title.png">
-
 ![License](https://img.shields.io/badge/License-MIT-red)
 
 <!-- ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/woowa-techcamp-2021/store-2?color=green&label=Version) -->
