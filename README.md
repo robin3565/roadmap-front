@@ -11,6 +11,8 @@
 # Roady.io: Ready to Roadmap
 > for easy to start
 
+![image](https://user-images.githubusercontent.com/77221262/196167862-cdfb8c1d-adea-4d3b-804a-d2521a86a040.png)
+
 ## 초심자분들께 💡등불을 밝혀주세요!
 
 ![image](https://user-images.githubusercontent.com/77221262/196155399-f7a763fe-bfa0-4ebb-bb8f-fab5e7de394a.png)
@@ -119,6 +121,4 @@ $ npm run build
 ## LICENSE
 
 ![License](https://img.shields.io/badge/License-MIT-red)
-
-![image](https://user-images.githubusercontent.com/77221262/196167862-cdfb8c1d-adea-4d3b-804a-d2521a86a040.png)
 
